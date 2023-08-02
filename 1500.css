@@ -4,6 +4,7 @@
 #333333
 #B6B6B6 
 */
+
 @media screen and (max-width: 1130px){
 
     .menü {
@@ -21,12 +22,13 @@
         line-height: 37px;
         letter-spacing: 0em;
         text-align: center;
-        color: #3bbde5;
+        color: #95E1D3;
         
         }
         .header-item {
         display: inline-block;
-        margin-right: 7%;
+        margin-right: 5%;
+        margin-left: 5%;
         margin-bottom: 20%;
         margin-top: 10%;
         
