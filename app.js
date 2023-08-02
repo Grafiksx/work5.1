@@ -1,1 +1,1 @@
-alert("цей веб-сайт створено onat onat за допомогою @media")
+alert("цей веб-сайт створено onat onat за допомогою @media\n ONAT ONAT Inc.")
