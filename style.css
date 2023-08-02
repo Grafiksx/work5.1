@@ -4,6 +4,8 @@
 #333333
 #B6B6B6 
 */
+
+
 .menü {
 list-style: none;
 }
@@ -11,6 +13,7 @@ list-style: none;
 display: inline-block;
 margin-right: 45%;
 margin-left: 5%;
+
 }
 .logo {
 font-family: Montserrat;
@@ -202,7 +205,6 @@ letter-spacing: 0em;
 color: #B6B6B6;
 border-color: #B6B6B6 ;
 border: solid 2px;
-margin-right: 0,0;
 }
 button {
 height: 5ch;
@@ -216,6 +218,5 @@ text-align: center;
 background-color: #95E1D3;
 border: 2px #95E1D3;
 color: #ffff;
-margin-left: 0,0;
 }
 /* Я не міг видалити пробіл між button та input */
