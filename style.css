@@ -205,6 +205,8 @@ letter-spacing: 0em;
 color: #B6B6B6;
 border-color: #B6B6B6 ;
 border: solid 2px;
+margin: 0;
+box-sizing: border-box;
 }
 button {
 height: 5ch;
@@ -218,5 +220,6 @@ text-align: center;
 background-color: #95E1D3;
 border: 2px #95E1D3;
 color: #ffff;
+box-sizing: border-box;
 }
 /* Я не міг видалити пробіл між button та input */
